@@ -1,3 +1,7 @@
+NAME-KAMANA RATHORE
+COMPANY-CODTECH IT SOLUTIONS
+
+OVERVIEW OF THE PROJECT
 # CODTECH-TASK2
 Building a sandbox environment for analyzing malware samples in a controlled setting involves creating a system where malware can execute without harming the underlying host system or network. This involves several key components:
 
